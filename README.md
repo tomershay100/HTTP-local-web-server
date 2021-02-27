@@ -1,4 +1,5 @@
 # HTTP-local-web-server
+\[Assignment in the course ```Introduction to Communication Networks```\]
 1. [Introduction](#introduction)
 2. [Dependencies](#dependencies)  
 3. [Installation](#installation)
