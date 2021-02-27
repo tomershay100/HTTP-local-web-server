@@ -28,7 +28,7 @@ Additionally,
     $ python3 server.py 12345
     ```
     with "12345" as port number (you can choose a free port as you like).
-3. Open the browser and type as URL the files from the ```files``` folder that you want to download in the following format. for example:
+3. Open the browser on your computer (or any computer on the same network) and type as URL the files from the ```files``` folder that you want to download in the following format. for example:
     ```
     http://localhost:12345/a/b/ref.html
     ```
