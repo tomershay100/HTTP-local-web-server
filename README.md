@@ -22,4 +22,21 @@ Additionally,
     ```
     $ git clone https://github.com/tomershay100/HTTP-local-web-server.git
     ```
-2. run this commands:
+2. Run this command:
+    ```
+    $ python3 server.py 12345
+    ```
+    with "12345" as port number (you can choose a free port as you like).
+3. Open the browser and type as URL the files from the "Files" folder that you want to download in the following format. for example:
+    ```
+    http://localhost:12345/a/b/ref.html
+    ```
+    or
+    ```
+    http://localhost:12345/
+    ```
+    or
+    ```
+    http://localhost:12345/redirect
+    ```
+    
