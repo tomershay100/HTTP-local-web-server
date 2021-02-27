@@ -22,7 +22,7 @@ Additionally,
     ```
     $ git clone https://github.com/tomershay100/HTTP-local-web-server.git
     ```
-2. Run this command:
+2. Run the server using python3:
     ```
     $ python3 server.py 12345
     ```
